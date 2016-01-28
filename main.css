@@ -2,11 +2,21 @@
 	width: 150px;
 	height: 83px;
 	background-color: violet;
+	float: left;
 	}
 
 .abrazo {
 	width: 710px;
 	border: 1px solid red;
+}
+.clearfix:before, .clearfix:after {
+	content: " ";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+
 }
 .uno { 
 	background-color: #10ff00;
