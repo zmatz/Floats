@@ -1,0 +1,21 @@
+ div>div { 
+	width: 150px;
+	height: 83px;
+	background-color: violet;
+	}
+
+.abrazo {
+	width: 710px;
+	border: 1px solid red;
+}
+.uno { 
+	background-color: #10ff00;
+}
+
+.dos { 
+	background-color: turquoise;
+}
+
+.tres { 
+	background-color: #ef00ff;
+}
